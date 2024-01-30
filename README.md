@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amenabrown
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Machine learning projects
+- 👀 I’m interested in Applied Econometrics
+- 🌱 I’m currently working on the intersection between Causal Inference and Machine Learning.
 - 📫 How to reach me andres_mena@brown.edu
 
 <!---
